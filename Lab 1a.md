@@ -1,5 +1,4 @@
-# ISEA-Bridging-Module
-Lab 1a
+# Lab 1a
 Reflection:
 
 Downloaded and installed VMware Workstation pro
